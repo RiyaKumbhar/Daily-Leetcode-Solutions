@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
