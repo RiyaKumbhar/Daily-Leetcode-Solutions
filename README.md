@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
