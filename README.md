@@ -15,18 +15,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -125,4 +129,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
