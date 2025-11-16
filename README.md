@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0228-summary-ranges) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
