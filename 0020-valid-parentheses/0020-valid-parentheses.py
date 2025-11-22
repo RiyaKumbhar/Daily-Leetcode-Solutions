@@ -1,18 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        a = []
-        f = True
-        for v in s:
-            if(len(a) != 0 and v == ')' and a[-1] == '('):
-                a = a[:-1]
-            elif(len(a) != 0 and v == '}' and a[-1] == '{'):
-                a = a[:-1]
-            elif(len(a) != 0 and v == ']' and a[-1] == '['):
-                a = a[:-1]
+        stack = []
+        closeToOpen = {")" : "(", "]" : "[", "}" : "{"}
+
+        for c in s:
+            if c in closeToOpen:
+                if stack and stack[-1] == closeToOpen[c]:
+                    stack.pop()
+                else:
+                    return False
             else:
-                a.append(v)
-        if(len(a) != 0):
-            f = False
-        return f
+                stack.append(c)
+        return True if not stack else False
 
         
