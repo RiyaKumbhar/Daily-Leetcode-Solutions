@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Trie
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0268-missing-number) |
