@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Trie
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
