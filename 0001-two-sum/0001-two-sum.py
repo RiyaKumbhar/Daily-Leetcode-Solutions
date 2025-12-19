@@ -1,10 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        prevMap = {} # value : index
+        prevMap = {}
 
         for i, n in enumerate(nums):
             diff = target - n
             if diff in prevMap:
-                return [prevMap[diff], i]
-            prevMap[n] = i # update if not diff not present in hashmap
-        return 
+                return[prevMap[diff], i]
+            prevMap[n] = i
+        return
