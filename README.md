@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Queue
 |  |
