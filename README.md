@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0853-car-fleet) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## String
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Queue
 |  |
