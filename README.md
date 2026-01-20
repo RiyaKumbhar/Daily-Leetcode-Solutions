@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Trie
 |  |
 | ------- |
