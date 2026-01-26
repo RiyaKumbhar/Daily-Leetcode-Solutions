@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0849-maximize-distance-to-closest-person](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0853-car-fleet](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
