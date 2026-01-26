@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0849-maximize-distance-to-closest-person](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0853-car-fleet](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1046-last-stone-weight](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
