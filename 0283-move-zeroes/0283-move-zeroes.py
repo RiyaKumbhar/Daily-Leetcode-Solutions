@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        insert_pos = 0 
+        insert_pos = 0
 
         for num in nums:
             if num != 0:
@@ -12,4 +12,4 @@ class Solution:
         
         while insert_pos < len(nums):
             nums[insert_pos] = 0
-            insert_pos += 1 
+            insert_pos += 1
