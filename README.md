@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
