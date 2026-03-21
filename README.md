@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Hash Function
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
