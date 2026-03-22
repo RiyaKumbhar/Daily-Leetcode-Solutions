@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0849-maximize-distance-to-closest-person](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0853-car-fleet](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0695-max-area-of-island](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Hash Function
 |  |
 | ------- |
