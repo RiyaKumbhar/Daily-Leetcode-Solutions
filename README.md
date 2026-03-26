@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
