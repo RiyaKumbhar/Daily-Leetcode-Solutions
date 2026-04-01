@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0767-reorganize-string) |
