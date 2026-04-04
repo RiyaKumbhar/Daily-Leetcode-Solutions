@@ -3,22 +3,24 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        # find pivot
-        i = n -2
-        while i >= 0 and nums[i] >= nums[i + 1]:
-            i -= 1
+        N = len(nums)
+        pivot = 0
+
+        for i in range(N-1,0,-1):
+            if nums[i - 1] < nums[i]:
+                pivot = i
+                break
+        if pivot == 0:
+            nums.sort()
+            return
         
-        # find element just larger than pivot
-        if i >= 0:
-            j = n - 1
-            while nums[j] <= nums[i]:
-                j -= 1
-            nums[i], nums[j] = nums[j], nums[i]
+        swap = N - 1
+        while nums[pivot-1] >= nums[swap]:
+            swap -= 1
         
-        # Reverse suffix using two pointers
-        l, r = i + 1, n - 1
-        while l < r:
-            nums[l], nums[r] = nums[r], nums[l]
-            l += 1
-            r -=1
+        nums[swap], nums[pivot - 1] = nums[pivot - 1], nums[swap]
+
+        nums[pivot:] = reversed(nums[pivot:])
+            
+        
+        
