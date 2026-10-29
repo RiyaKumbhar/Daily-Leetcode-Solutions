@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 ## Memoization
 |  |
 | ------- |
