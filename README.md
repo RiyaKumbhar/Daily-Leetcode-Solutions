@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Database
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Union-Find
 |  |
