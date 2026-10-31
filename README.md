@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1169-invalid-transactions](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1487-making-file-names-unique](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1487-making-file-names-unique) |
+| [2043-simple-bank-system](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1169-invalid-transactions](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1487-making-file-names-unique](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1487-making-file-names-unique) |
+| [2043-simple-bank-system](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Sorting
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2043-simple-bank-system](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [2043-simple-bank-system](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 ## Memoization
 |  |
