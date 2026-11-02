@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1169-invalid-transactions](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1487-making-file-names-unique](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1487-making-file-names-unique) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2043-simple-bank-system](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1169-invalid-transactions](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1487-making-file-names-unique](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1487-making-file-names-unique) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2043-simple-bank-system](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Sorting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1169-invalid-transactions](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1169-invalid-transactions) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## String
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1169-invalid-transactions](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1487-making-file-names-unique](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1487-making-file-names-unique) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RiyaKumbhar/Daily-Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Database
 |  |
